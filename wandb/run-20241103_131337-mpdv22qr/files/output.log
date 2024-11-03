@@ -1,0 +1,945 @@
+Found 11119 images belonging to 12 classes.
+Found 2774 images belonging to 12 classes.
+Found 3477 images belonging to 12 classes.
+Epoch 1/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+695/695 [==============================] - ETA: 0s - loss: 1.5434 - accuracy: 0.5447
+c:\Users\Alan de Castro\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3000: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\Alan de Castro\Desktop\Projetos\Solar_Anomalies_DL\wandb\run-20241103_131337-mpdv22qr\files\model-best\assets
+
+
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\Alan de Castro\Desktop\Projetos\Solar_Anomalies_DL\wandb\run-20241103_131337-mpdv22qr\files\model-best)... Done. 0.3s
+5/5 [==============================] - 2s 216ms/step
+695/695 [==============================] - 245s 350ms/step - loss: 1.5434 - accuracy: 0.5447 - val_loss: 1.4717 - val_accuracy: 0.5656
+Epoch 2/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+695/695 [==============================] - ETA: 0s - loss: 1.4525 - accuracy: 0.5620
+c:\Users\Alan de Castro\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3000: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+
+695/695 [==============================] - ETA: 0s - loss: 1.4525 - accuracy: 0.5620INFO:tensorflow:Assets written to: c:\Users\Alan de Castro\Desktop\Projetos\Solar_Anomalies_DL\wandb\run-20241103_131337-mpdv22qr\files\model-best\assets
+INFO:tensorflow:Assets written to: c:\Users\Alan de Castro\Desktop\Projetos\Solar_Anomalies_DL\wandb\run-20241103_131337-mpdv22qr\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\Alan de Castro\Desktop\Projetos\Solar_Anomalies_DL\wandb\run-20241103_131337-mpdv22qr\files\model-best)... Done. 0.3s
+5/5 [==============================] - 1s 200ms/step
+695/695 [==============================] - 132s 189ms/step - loss: 1.4525 - accuracy: 0.5620 - val_loss: 1.4381 - val_accuracy: 0.5746
+Epoch 3/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5/5 [==============================] - 1s 177ms/step loss: 1.4176 - accuracy: 0.5688
+695/695 [==============================] - 126s 182ms/step - loss: 1.4176 - accuracy: 0.5688 - val_loss: 1.4566 - val_accuracy: 0.5685
+Epoch 4/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+695/695 [==============================] - ETA: 0s - loss: 1.4096 - accuracy: 0.5706
+c:\Users\Alan de Castro\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3000: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+
+695/695 [==============================] - ETA: 0s - loss: 1.4096 - accuracy: 0.5706INFO:tensorflow:Assets written to: c:\Users\Alan de Castro\Desktop\Projetos\Solar_Anomalies_DL\wandb\run-20241103_131337-mpdv22qr\files\model-best\assets
+INFO:tensorflow:Assets written to: c:\Users\Alan de Castro\Desktop\Projetos\Solar_Anomalies_DL\wandb\run-20241103_131337-mpdv22qr\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\Alan de Castro\Desktop\Projetos\Solar_Anomalies_DL\wandb\run-20241103_131337-mpdv22qr\files\model-best)... Done. 0.4s
+5/5 [==============================] - 1s 166ms/step
+695/695 [==============================] - 141s 202ms/step - loss: 1.4096 - accuracy: 0.5706 - val_loss: 1.4070 - val_accuracy: 0.5782
+Epoch 5/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+695/695 [==============================] - ETA: 0s - loss: 1.3968 - accuracy: 0.5728
+c:\Users\Alan de Castro\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3000: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: c:\Users\Alan de Castro\Desktop\Projetos\Solar_Anomalies_DL\wandb\run-20241103_131337-mpdv22qr\files\model-best\assets
+
+695/695 [==============================] - ETA: 0s - loss: 1.3968 - accuracy: 0.5728INFO:tensorflow:Assets written to: c:\Users\Alan de Castro\Desktop\Projetos\Solar_Anomalies_DL\wandb\run-20241103_131337-mpdv22qr\files\model-best\assets
+5/5 [==============================] - 1s 181ms/step
+695/695 [==============================] - 146s 210ms/step - loss: 1.3968 - accuracy: 0.5728 - val_loss: 1.3583 - val_accuracy: 0.5815
+Epoch 6/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5/5 [==============================] - 1s 166ms/step loss: 1.3824 - accuracy: 0.5795
+695/695 [==============================] - 133s 191ms/step - loss: 1.3824 - accuracy: 0.5795 - val_loss: 1.4090 - val_accuracy: 0.5728
+Epoch 7/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5/5 [==============================] - 1s 165ms/step loss: 1.3786 - accuracy: 0.5774
+695/695 [==============================] - 125s 180ms/step - loss: 1.3786 - accuracy: 0.5774 - val_loss: 1.3625 - val_accuracy: 0.5800
+Epoch 8/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+695/695 [==============================] - ETA: 0s - loss: 1.3628 - accuracy: 0.5808
+c:\Users\Alan de Castro\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3000: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+
+695/695 [==============================] - ETA: 0s - loss: 1.3628 - accuracy: 0.5808INFO:tensorflow:Assets written to: c:\Users\Alan de Castro\Desktop\Projetos\Solar_Anomalies_DL\wandb\run-20241103_131337-mpdv22qr\files\model-best\assets
+INFO:tensorflow:Assets written to: c:\Users\Alan de Castro\Desktop\Projetos\Solar_Anomalies_DL\wandb\run-20241103_131337-mpdv22qr\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\Alan de Castro\Desktop\Projetos\Solar_Anomalies_DL\wandb\run-20241103_131337-mpdv22qr\files\model-best)... Done. 0.4s
+5/5 [==============================] - 1s 181ms/step
+695/695 [==============================] - 132s 190ms/step - loss: 1.3628 - accuracy: 0.5808 - val_loss: 1.3525 - val_accuracy: 0.5793
+Epoch 9/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5/5 [==============================] - 1s 167ms/step loss: 1.3599 - accuracy: 0.5816
+695/695 [==============================] - 132s 191ms/step - loss: 1.3599 - accuracy: 0.5816 - val_loss: 1.3745 - val_accuracy: 0.5826
+Epoch 10/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+695/695 [==============================] - ETA: 0s - loss: 1.3476 - accuracy: 0.5845
+c:\Users\Alan de Castro\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3000: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+
+695/695 [==============================] - ETA: 0s - loss: 1.3476 - accuracy: 0.5845INFO:tensorflow:Assets written to: c:\Users\Alan de Castro\Desktop\Projetos\Solar_Anomalies_DL\wandb\run-20241103_131337-mpdv22qr\files\model-best\assets
+INFO:tensorflow:Assets written to: c:\Users\Alan de Castro\Desktop\Projetos\Solar_Anomalies_DL\wandb\run-20241103_131337-mpdv22qr\files\model-best\assets
+[34m[1mwandb[39m[22m: Adding directory to artifact (c:\Users\Alan de Castro\Desktop\Projetos\Solar_Anomalies_DL\wandb\run-20241103_131337-mpdv22qr\files\model-best)... Done. 1.0s
+5/5 [==============================] - 1s 256ms/step
+695/695 [==============================] - 160s 230ms/step - loss: 1.3476 - accuracy: 0.5845 - val_loss: 1.3384 - val_accuracy: 0.5905
+218/218 - 77s - loss: 1.2331 - accuracy: 0.6172 - 77s/epoch - 353ms/step
+Acurácia no conjunto de teste: 0.6171987056732178
+Classes representadas e suas quantidades:
+Classe 'Cell': 1077 imagens
+Classe 'Cell-Multi': 712 imagens
+Classe 'Cracking': 528 imagens
+Classe 'Diode': 840 imagens
+Classe 'Diode-Multi': 105 imagens
+Classe 'Hot-Spot': 139 imagens
+Classe 'Hot-Spot-Multi': 138 imagens
+Classe 'No-Anomaly': 5536 imagens
+Classe 'Offline-Module': 439 imagens
+Classe 'Shadowing': 604 imagens
+Classe 'Soiling': 99 imagens
+Classe 'Vegetation': 902 imagens
+Classes representadas e suas quantidades:
+Classe 'Cell': 269 imagens
+Classe 'Cell-Multi': 178 imagens
+Classe 'Cracking': 132 imagens
+Classe 'Diode': 209 imagens
+Classe 'Diode-Multi': 26 imagens
+Classe 'Hot-Spot': 34 imagens
+Classe 'Hot-Spot-Multi': 34 imagens
+Classe 'No-Anomaly': 1384 imagens
+Classe 'Offline-Module': 109 imagens
+Classe 'Shadowing': 150 imagens
+Classe 'Soiling': 24 imagens
+Classe 'Vegetation': 225 imagens
+Classes representadas e suas quantidades:
+Classe 'Cell': 295 imagens
+Classe 'Cell-Multi': 208 imagens
+Classe 'Cracking': 161 imagens
+Classe 'Diode': 255 imagens
+Classe 'Diode-Multi': 27 imagens
+Classe 'Hot-Spot': 42 imagens
+Classe 'Hot-Spot-Multi': 48 imagens
+Classe 'No-Anomaly': 1774 imagens
+Classe 'Offline-Module': 138 imagens
+Classe 'Shadowing': 178 imagens
+Classe 'Soiling': 51 imagens
+Classe 'Vegetation': 300 imagens
+c:\Users\Alan de Castro\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3000: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+
+
+
+
+
+
+
+
+
+
+
+
+
+218/218 [==============================] - 30s 134ms/step
+c:\Users\Alan de Castro\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3000: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+Found 11119 images belonging to 12 classes.
+Found 5583 images belonging to 11 classes.
+Found 2774 images belonging to 12 classes.
+Found 1390 images belonging to 11 classes.
+Found 1703 images belonging to 11 classes.
+Epoch 1/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5/5 [==============================] - 1s 177ms/step loss: 1.9372 - accuracy: 0.3020
+349/349 [==============================] - 65s 182ms/step - loss: 1.9372 - accuracy: 0.3020 - val_loss: 1.8144 - val_accuracy: 0.3324
+Epoch 2/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5/5 [==============================] - 1s 160ms/step loss: 1.8181 - accuracy: 0.3403
+349/349 [==============================] - 62s 177ms/step - loss: 1.8181 - accuracy: 0.3403 - val_loss: 1.7697 - val_accuracy: 0.3705
+Epoch 3/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5/5 [==============================] - 1s 158ms/step loss: 1.7619 - accuracy: 0.3600
+349/349 [==============================] - 57s 163ms/step - loss: 1.7619 - accuracy: 0.3600 - val_loss: 1.7471 - val_accuracy: 0.3712
+Epoch 4/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5/5 [==============================] - 1s 158ms/step loss: 1.7581 - accuracy: 0.3543
+349/349 [==============================] - 56s 162ms/step - loss: 1.7581 - accuracy: 0.3543 - val_loss: 1.7311 - val_accuracy: 0.3525
+Epoch 5/10
+ 47/349 [===>..........................] - ETA: 41s - loss: 1.6854 - accuracy: 0.3830
+ 63/349 [====>.........................] - ETA: 38s - loss: 1.7208 - accuracy: 0.3730
+ 78/349 [=====>........................] - ETA: 36s - loss: 1.7142 - accuracy: 0.3790
+ 92/349 [======>.......................] - ETA: 34s - loss: 1.7203 - accuracy: 0.3757
+109/349 [========>.....................] - ETA: 31s - loss: 1.7185 - accuracy: 0.3744
+125/349 [=========>....................] - ETA: 29s - loss: 1.7242 - accuracy: 0.3670
+141/349 [===========>..................] - ETA: 27s - loss: 1.7234 - accuracy: 0.3688
+158/349 [============>.................] - ETA: 24s - loss: 1.7297 - accuracy: 0.3687
+173/349 [=============>................] - ETA: 22s - loss: 1.7381 - accuracy: 0.3663
+188/349 [===============>..............] - ETA: 20s - loss: 1.7400 - accuracy: 0.3674
+200/349 [================>.............] - ETA: 19s - loss: 1.7377 - accuracy: 0.3663
+211/349 [=================>............] - ETA: 18s - loss: 1.7359 - accuracy: 0.3688
+224/349 [==================>...........] - ETA: 16s - loss: 1.7317 - accuracy: 0.3701
+240/349 [===================>..........] - ETA: 14s - loss: 1.7291 - accuracy: 0.3694
+253/349 [====================>.........] - ETA: 13s - loss: 1.7302 - accuracy: 0.3689
+268/349 [======================>.......] - ETA: 11s - loss: 1.7260 - accuracy: 0.3709
+284/349 [=======================>......] - ETA: 8s - loss: 1.7254 - accuracy: 0.3691
+298/349 [========================>.....] - ETA: 6s - loss: 1.7262 - accuracy: 0.3707
+312/349 [=========================>....] - ETA: 5s - loss: 1.7240 - accuracy: 0.3705
+328/349 [===========================>..] - ETA: 2s - loss: 1.7231 - accuracy: 0.3715
+342/349 [============================>.] - ETA: 0s - loss: 1.7198 - accuracy: 0.3707
+349/349 [==============================] - ETA: 0s - loss: 1.7202 - accuracy: 0.3702
+5/5 [==============================] - 1s 165ms/step loss: 1.7202 - accuracy: 0.3702
+ 28/349 [=>............................] - ETA: 44s - loss: 1.6599 - accuracy: 0.39730.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+ 42/349 [==>...........................] - ETA: 43s - loss: 1.6896 - accuracy: 0.37350.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+ 55/349 [===>..........................] - ETA: 42s - loss: 1.6893 - accuracy: 0.37730.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+ 69/349 [====>.........................] - ETA: 40s - loss: 1.6918 - accuracy: 0.37950.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+ 80/349 [=====>........................] - ETA: 39s - loss: 1.7052 - accuracy: 0.37970.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+ 95/349 [=======>......................] - ETA: 37s - loss: 1.7077 - accuracy: 0.37960.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+108/349 [========>.....................] - ETA: 35s - loss: 1.7005 - accuracy: 0.38540.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+124/349 [=========>....................] - ETA: 32s - loss: 1.6986 - accuracy: 0.38610.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+136/349 [==========>...................] - ETA: 31s - loss: 1.6959 - accuracy: 0.38790.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+150/349 [===========>..................] - ETA: 29s - loss: 1.6974 - accuracy: 0.38290.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+163/349 [=============>................] - ETA: 27s - loss: 1.6989 - accuracy: 0.38310.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+174/349 [=============>................] - ETA: 25s - loss: 1.7064 - accuracy: 0.38070.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+189/349 [===============>..............] - ETA: 23s - loss: 1.7026 - accuracy: 0.38590.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+202/349 [================>.............] - ETA: 21s - loss: 1.6998 - accuracy: 0.38740.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+217/349 [=================>............] - ETA: 19s - loss: 1.7037 - accuracy: 0.38390.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+232/349 [==================>...........] - ETA: 17s - loss: 1.7036 - accuracy: 0.38660.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+245/349 [====================>.........] - ETA: 15s - loss: 1.7051 - accuracy: 0.38650.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+259/349 [=====================>........] - ETA: 13s - loss: 1.7037 - accuracy: 0.38830.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+274/349 [======================>.......] - ETA: 11s - loss: 1.7065 - accuracy: 0.38660.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+285/349 [=======================>......] - ETA: 9s - loss: 1.7045 - accuracy: 0.3860 0.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+298/349 [========================>.....] - ETA: 7s - loss: 1.7044 - accuracy: 0.3859 0.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+314/349 [=========================>....] - ETA: 5s - loss: 1.7073 - accuracy: 0.3840 0.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+327/349 [===========================>..] - ETA: 3s - loss: 1.7081 - accuracy: 0.3836 0.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+342/349 [============================>.] - ETA: 1s - loss: 1.7085 - accuracy: 0.3842 0.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+349/349 [==============================] - ETA: 0s - loss: 1.7068 - accuracy: 0.3853 0.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+5/5 [==============================] - 1s 210ms/step loss: 1.7068 - accuracy: 0.3853 0.3702 - val_loss: 1.7309 - val_accuracy: 0.3655
+ 23/349 [>.............................] - ETA: 49s - loss: 1.7502 - accuracy: 0.39670.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+ 34/349 [=>............................] - ETA: 45s - loss: 1.7456 - accuracy: 0.39340.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+ 49/349 [===>..........................] - ETA: 43s - loss: 1.7608 - accuracy: 0.39030.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+ 61/349 [====>.........................] - ETA: 42s - loss: 1.7487 - accuracy: 0.38830.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+ 75/349 [=====>........................] - ETA: 40s - loss: 1.7181 - accuracy: 0.39170.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+ 88/349 [======>.......................] - ETA: 38s - loss: 1.7113 - accuracy: 0.39130.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+103/349 [=======>......................] - ETA: 36s - loss: 1.6979 - accuracy: 0.39080.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+117/349 [=========>....................] - ETA: 34s - loss: 1.7006 - accuracy: 0.39100.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+132/349 [==========>...................] - ETA: 31s - loss: 1.7122 - accuracy: 0.38450.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+145/349 [===========>..................] - ETA: 30s - loss: 1.7100 - accuracy: 0.38450.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+156/349 [============>.................] - ETA: 28s - loss: 1.7096 - accuracy: 0.38500.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+172/349 [=============>................] - ETA: 26s - loss: 1.7168 - accuracy: 0.37950.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+185/349 [==============>...............] - ETA: 24s - loss: 1.7076 - accuracy: 0.38120.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+200/349 [================>.............] - ETA: 22s - loss: 1.7054 - accuracy: 0.38010.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+213/349 [=================>............] - ETA: 20s - loss: 1.7029 - accuracy: 0.37980.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+228/349 [==================>...........] - ETA: 17s - loss: 1.7051 - accuracy: 0.38110.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+240/349 [===================>..........] - ETA: 16s - loss: 1.6974 - accuracy: 0.38400.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+255/349 [====================>.........] - ETA: 13s - loss: 1.6956 - accuracy: 0.38540.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+264/349 [=====================>........] - ETA: 12s - loss: 1.6934 - accuracy: 0.38530.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+278/349 [======================>.......] - ETA: 10s - loss: 1.6975 - accuracy: 0.38390.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+292/349 [========================>.....] - ETA: 8s - loss: 1.6944 - accuracy: 0.3841 0.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+304/349 [=========================>....] - ETA: 6s - loss: 1.6992 - accuracy: 0.3829 0.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+319/349 [==========================>...] - ETA: 4s - loss: 1.6954 - accuracy: 0.3845 0.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+333/349 [===========================>..] - ETA: 2s - loss: 1.6893 - accuracy: 0.3875 0.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+347/349 [============================>.] - ETA: 0s - loss: 1.6925 - accuracy: 0.3871 0.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+349/349 [==============================] - ETA: 0s - loss: 1.6903 - accuracy: 0.3881 0.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+5/5 [==============================] - 1s 224ms/step loss: 1.6903 - accuracy: 0.3881 0.3853 - val_loss: 1.6942 - val_accuracy: 0.3914
+ 25/349 [=>............................] - ETA: 47s - loss: 1.7668 - accuracy: 0.36250.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+ 37/349 [==>...........................] - ETA: 47s - loss: 1.7432 - accuracy: 0.37500.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+ 52/349 [===>..........................] - ETA: 44s - loss: 1.7275 - accuracy: 0.37500.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+ 67/349 [====>.........................] - ETA: 41s - loss: 1.7269 - accuracy: 0.37780.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+ 79/349 [=====>........................] - ETA: 40s - loss: 1.7150 - accuracy: 0.38130.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+ 94/349 [=======>......................] - ETA: 38s - loss: 1.7013 - accuracy: 0.38160.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+104/349 [=======>......................] - ETA: 36s - loss: 1.7017 - accuracy: 0.38340.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+118/349 [=========>....................] - ETA: 34s - loss: 1.7104 - accuracy: 0.37840.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+130/349 [==========>...................] - ETA: 33s - loss: 1.7091 - accuracy: 0.38430.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+144/349 [===========>..................] - ETA: 31s - loss: 1.7064 - accuracy: 0.38430.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+157/349 [============>.................] - ETA: 29s - loss: 1.7178 - accuracy: 0.37950.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+171/349 [=============>................] - ETA: 27s - loss: 1.7153 - accuracy: 0.38350.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+186/349 [==============>...............] - ETA: 24s - loss: 1.7051 - accuracy: 0.38720.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+195/349 [===============>..............] - ETA: 23s - loss: 1.6998 - accuracy: 0.38860.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+209/349 [================>.............] - ETA: 21s - loss: 1.6961 - accuracy: 0.38800.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+224/349 [==================>...........] - ETA: 18s - loss: 1.6864 - accuracy: 0.38930.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+237/349 [===================>..........] - ETA: 17s - loss: 1.6884 - accuracy: 0.38860.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+251/349 [====================>.........] - ETA: 14s - loss: 1.6867 - accuracy: 0.39000.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+261/349 [=====================>........] - ETA: 13s - loss: 1.6865 - accuracy: 0.39210.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+274/349 [======================>.......] - ETA: 11s - loss: 1.6887 - accuracy: 0.38950.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+288/349 [=======================>......] - ETA: 9s - loss: 1.6877 - accuracy: 0.3896 0.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+303/349 [=========================>....] - ETA: 7s - loss: 1.6850 - accuracy: 0.3899 0.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+316/349 [==========================>...] - ETA: 5s - loss: 1.6874 - accuracy: 0.3893 0.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+332/349 [===========================>..] - ETA: 2s - loss: 1.6865 - accuracy: 0.3911 0.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+342/349 [============================>.] - ETA: 1s - loss: 1.6798 - accuracy: 0.3930 0.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+349/349 [==============================] - ETA: 0s - loss: 1.6771 - accuracy: 0.3949 0.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+5/5 [==============================] - 1s 199ms/step loss: 1.6771 - accuracy: 0.3949 0.3881 - val_loss: 1.6800 - val_accuracy: 0.3993
+ 28/349 [=>............................] - ETA: 51s - loss: 1.6284 - accuracy: 0.3705 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+ 40/349 [==>...........................] - ETA: 51s - loss: 1.6147 - accuracy: 0.3844 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+ 52/349 [===>..........................] - ETA: 47s - loss: 1.5921 - accuracy: 0.4099 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+ 65/349 [====>.........................] - ETA: 45s - loss: 1.6179 - accuracy: 0.3971 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+ 80/349 [=====>........................] - ETA: 41s - loss: 1.6219 - accuracy: 0.4016 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+ 92/349 [======>.......................] - ETA: 40s - loss: 1.6256 - accuracy: 0.4015 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+106/349 [========>.....................] - ETA: 37s - loss: 1.6296 - accuracy: 0.4039 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+118/349 [=========>....................] - ETA: 36s - loss: 1.6423 - accuracy: 0.3972 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+131/349 [==========>...................] - ETA: 34s - loss: 1.6505 - accuracy: 0.3952 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+144/349 [===========>..................] - ETA: 32s - loss: 1.6504 - accuracy: 0.3973 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+157/349 [============>.................] - ETA: 30s - loss: 1.6572 - accuracy: 0.3943 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+167/349 [=============>................] - ETA: 28s - loss: 1.6563 - accuracy: 0.3935 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+181/349 [==============>...............] - ETA: 26s - loss: 1.6577 - accuracy: 0.3938 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+195/349 [===============>..............] - ETA: 24s - loss: 1.6647 - accuracy: 0.3924 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+209/349 [================>.............] - ETA: 21s - loss: 1.6663 - accuracy: 0.3928 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+223/349 [==================>...........] - ETA: 19s - loss: 1.6632 - accuracy: 0.3916 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+232/349 [==================>...........] - ETA: 18s - loss: 1.6636 - accuracy: 0.3923 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+246/349 [====================>.........] - ETA: 16s - loss: 1.6651 - accuracy: 0.3901 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+260/349 [=====================>........] - ETA: 13s - loss: 1.6716 - accuracy: 0.3893 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+273/349 [======================>.......] - ETA: 11s - loss: 1.6728 - accuracy: 0.3877 .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+287/349 [=======================>......] - ETA: 9s - loss: 1.6742 - accuracy: 0.3860  .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+297/349 [========================>.....] - ETA: 8s - loss: 1.6722 - accuracy: 0.3871  .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+302/349 [========================>.....] - ETA: 7s - loss: 1.6695 - accuracy: 0.3881  .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+316/349 [==========================>...] - ETA: 5s - loss: 1.6706 - accuracy: 0.3885  .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+323/349 [==========================>...] - ETA: 4s - loss: 1.6684 - accuracy: 0.3890  .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+336/349 [===========================>..] - ETA: 2s - loss: 1.6713 - accuracy: 0.3888  .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+344/349 [============================>.] - ETA: 0s - loss: 1.6705 - accuracy: 0.3903  .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+348/349 [============================>.] - ETA: 0s - loss: 1.6694 - accuracy: 0.3907  .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+349/349 [==============================] - ETA: 0s - loss: 1.6690 - accuracy: 0.3908  .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+5/5 [==============================] - 1s 200ms/step loss: 1.6690 - accuracy: 0.3908  .3949 - val_loss: 1.6711 - val_accuracy: 0.4137
+ 16/349 [>.............................] - ETA: 49s - loss: 1.5694 - accuracy: 0.42190.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+ 30/349 [=>............................] - ETA: 47s - loss: 1.5968 - accuracy: 0.42710.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+ 43/349 [==>...........................] - ETA: 47s - loss: 1.6043 - accuracy: 0.42150.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+ 58/349 [===>..........................] - ETA: 43s - loss: 1.6131 - accuracy: 0.41920.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+ 72/349 [=====>........................] - ETA: 41s - loss: 1.6131 - accuracy: 0.42140.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+ 84/349 [======>.......................] - ETA: 40s - loss: 1.6287 - accuracy: 0.41620.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+ 94/349 [=======>......................] - ETA: 39s - loss: 1.6308 - accuracy: 0.41650.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+109/349 [========>.....................] - ETA: 36s - loss: 1.6384 - accuracy: 0.41540.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+119/349 [=========>....................] - ETA: 36s - loss: 1.6546 - accuracy: 0.40940.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+133/349 [==========>...................] - ETA: 33s - loss: 1.6611 - accuracy: 0.40710.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+147/349 [===========>..................] - ETA: 31s - loss: 1.6562 - accuracy: 0.41000.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+158/349 [============>.................] - ETA: 29s - loss: 1.6528 - accuracy: 0.40920.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+170/349 [=============>................] - ETA: 28s - loss: 1.6507 - accuracy: 0.40600.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+184/349 [==============>...............] - ETA: 25s - loss: 1.6513 - accuracy: 0.40570.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+197/349 [===============>..............] - ETA: 23s - loss: 1.6526 - accuracy: 0.40400.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+205/349 [================>.............] - ETA: 22s - loss: 1.6536 - accuracy: 0.40410.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+218/349 [=================>............] - ETA: 21s - loss: 1.6531 - accuracy: 0.40460.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+226/349 [==================>...........] - ETA: 19s - loss: 1.6593 - accuracy: 0.40190.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+236/349 [===================>..........] - ETA: 18s - loss: 1.6630 - accuracy: 0.40130.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+250/349 [====================>.........] - ETA: 16s - loss: 1.6569 - accuracy: 0.40160.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+261/349 [=====================>........] - ETA: 14s - loss: 1.6575 - accuracy: 0.40000.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+274/349 [======================>.......] - ETA: 12s - loss: 1.6575 - accuracy: 0.40340.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+286/349 [=======================>......] - ETA: 10s - loss: 1.6561 - accuracy: 0.40280.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+299/349 [========================>.....] - ETA: 8s - loss: 1.6580 - accuracy: 0.4008 0.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+311/349 [=========================>....] - ETA: 6s - loss: 1.6628 - accuracy: 0.3990 0.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+324/349 [==========================>...] - ETA: 4s - loss: 1.6650 - accuracy: 0.3976 0.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+332/349 [===========================>..] - ETA: 2s - loss: 1.6673 - accuracy: 0.3960 0.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+345/349 [============================>.] - ETA: 0s - loss: 1.6699 - accuracy: 0.3946 0.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+349/349 [==============================] - ETA: 0s - loss: 1.6698 - accuracy: 0.3948 0.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+5/5 [==============================] - 1s 186ms/step loss: 1.6698 - accuracy: 0.3948 0.3908 - val_loss: 1.6994 - val_accuracy: 0.3950
+349/349 [==============================] - 71s 204ms/step - loss: 1.6698 - accuracy: 0.3948 - val_loss: 1.6874 - val_accuracy: 0.3748
+Acurácia no conjunto de teste: 0.4539048671722412 12s/epoch - 114ms/step - accuracy: 0.3948 - val_loss: 1.6874 - val_accuracy: 0.3748
+Acurácia no conjunto de teste: 0.4539048671722412 12s/epoch - 114ms/step - accuracy: 0.3948 - val_loss: 1.6874 - val_accuracy: 0.3748
+c:\Users\Alan de Castro\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3000: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+ 10/107 [=>............................] - ETA: 10s2s/epoch - 114ms/step - accuracy: 0.3948 - val_loss: 1.6874 - val_accuracy: 0.3748
+ 28/107 [======>.......................] - ETA: 9s 2s/epoch - 114ms/step - accuracy: 0.3948 - val_loss: 1.6874 - val_accuracy: 0.3748
+ 44/107 [===========>..................] - ETA: 7s 2s/epoch - 114ms/step - accuracy: 0.3948 - val_loss: 1.6874 - val_accuracy: 0.3748
+ 62/107 [================>.............] - ETA: 5s 2s/epoch - 114ms/step - accuracy: 0.3948 - val_loss: 1.6874 - val_accuracy: 0.3748
+ 80/107 [=====================>........] - ETA: 3s 2s/epoch - 114ms/step - accuracy: 0.3948 - val_loss: 1.6874 - val_accuracy: 0.3748
+100/107 [===========================>..] - ETA: 0s 2s/epoch - 114ms/step - accuracy: 0.3948 - val_loss: 1.6874 - val_accuracy: 0.3748
+107/107 [==============================] - 13s 114ms/stepch - 114ms/step - accuracy: 0.3948 - val_loss: 1.6874 - val_accuracy: 0.3748
+107/107 [==============================] - 13s 114ms/stepch - 114ms/step - accuracy: 0.3948 - val_loss: 1.6874 - val_accuracy: 0.3748
+c:\Users\Alan de Castro\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\engine\training.py:3000: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.

@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.11.4",
+    "heartbeatAt": "2024-11-03T15:22:46.542445",
+    "startedAt": "2024-11-03T15:22:32.078335",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/AlanOliveira43/Solar_Anomalies_DL.git",
+        "commit": "e6a8e6ea0ce198f1cc0c7d08f2e853076c82edd4"
+    },
+    "email": "castro_alan11@hotmail.com",
+    "root": "C:/Users/Alan de Castro/Desktop/Projetos/Solar_Anomalies_DL",
+    "host": "DESKTOP-7SUU3AC",
+    "username": "Alan de Castro",
+    "executable": "c:\\Users\\Alan de Castro\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1600.0,
+        "min": 0.0,
+        "max": 1800.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1600.0,
+            "min": 0.0,
+            "max": 1800.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 222.9478530883789,
+            "used": 205.98548126220703
+        }
+    },
+    "memory": {
+        "total": 23.878795623779297
+    }
+}

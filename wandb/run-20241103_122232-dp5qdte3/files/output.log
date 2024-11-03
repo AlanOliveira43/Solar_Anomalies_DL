@@ -1,0 +1,185 @@
+
+Found 11119 images belonging to 12 classes.
+Found 2774 images belonging to 12 classes.
+Found 3477 images belonging to 12 classes.
+Epoch 1/10
+  2/695 [..............................] - ETA: 2:32 - loss: 4.0057 - accuracy: 0.2500       Classes representadas e suas quantidades:
+Classe 'Cell': 1077 imagens
+Classe 'Cell-Multi': 712 imagens
+Classe 'Cracking': 528 imagens
+Classe 'Diode': 840 imagens
+Classe 'Diode-Multi': 105 imagens
+Classe 'Hot-Spot': 139 imagens
+Classe 'Hot-Spot-Multi': 138 imagens
+Classe 'No-Anomaly': 5536 imagens
+Classe 'Offline-Module': 439 imagens
+Classe 'Shadowing': 604 imagens
+Classe 'Soiling': 99 imagens
+Classe 'Vegetation': 902 imagens
+Classes representadas e suas quantidades:
+Classe 'Cell': 269 imagens
+Classe 'Cell-Multi': 178 imagens
+Classe 'Cracking': 132 imagens
+Classe 'Diode': 209 imagens
+Classe 'Diode-Multi': 26 imagens
+Classe 'Hot-Spot': 34 imagens
+Classe 'Hot-Spot-Multi': 34 imagens
+Classe 'No-Anomaly': 1384 imagens
+Classe 'Offline-Module': 109 imagens
+Classe 'Shadowing': 150 imagens
+Classe 'Soiling': 24 imagens
+Classe 'Vegetation': 225 imagens
+Classes representadas e suas quantidades:
+Classe 'Cell': 295 imagens
+Classe 'Cell-Multi': 208 imagens
+Classe 'Cracking': 161 imagens
+Classe 'Diode': 255 imagens
+Classe 'Diode-Multi': 27 imagens
+Classe 'Hot-Spot': 42 imagens
+Classe 'Hot-Spot-Multi': 48 imagens
+Classe 'No-Anomaly': 1774 imagens
+Classe 'Offline-Module': 138 imagens
+Classe 'Shadowing': 178 imagens
+Classe 'Soiling': 51 imagens
+Classe 'Vegetation': 300 imagens
+Classes representadas e suas quantidades:
+Classe 'Cell': 1077 imagens
+Classe 'Cell-Multi': 712 imagens
+Classe 'Cracking': 528 imagens
+Classe 'Diode': 840 imagens
+Classe 'Diode-Multi': 105 imagens
+Classe 'Hot-Spot': 139 imagens
+Classe 'Hot-Spot-Multi': 138 imagens
+Classe 'No-Anomaly': 5536 imagens
+Classe 'Offline-Module': 439 imagens
+Classe 'Shadowing': 604 imagens
+Classe 'Soiling': 99 imagens
+Classe 'Vegetation': 902 imagens
+Classes representadas e suas quantidades:
+Classe 'Cell': 269 imagens
+Classe 'Cell-Multi': 178 imagens
+Classe 'Cracking': 132 imagens
+Classe 'Diode': 209 imagens
+Classe 'Diode-Multi': 26 imagens
+Classe 'Hot-Spot': 34 imagens
+Classe 'Hot-Spot-Multi': 34 imagens
+Classe 'No-Anomaly': 1384 imagens
+Classe 'Offline-Module': 109 imagens
+Classe 'Shadowing': 150 imagens
+Classe 'Soiling': 24 imagens
+Classe 'Vegetation': 225 imagens
+Classes representadas e suas quantidades:
+Classe 'Cell': 295 imagens
+Classe 'Cell-Multi': 208 imagens
+Classe 'Cracking': 161 imagens
+Classe 'Diode': 255 imagens
+Classe 'Diode-Multi': 27 imagens
+Classe 'Hot-Spot': 42 imagens
+Classe 'Hot-Spot-Multi': 48 imagens
+Classe 'No-Anomaly': 1774 imagens
+Classe 'Offline-Module': 138 imagens
+Classe 'Shadowing': 178 imagens
+Classe 'Soiling': 51 imagens
+Classe 'Vegetation': 300 imagens
+Classes representadas e suas quantidades:
+Classe 'Cell': 1077 imagens
+Classe 'Cell-Multi': 712 imagens
+Classe 'Cracking': 528 imagens
+Classe 'Diode': 840 imagens
+Classe 'Diode-Multi': 105 imagens
+Classe 'Hot-Spot': 139 imagens
+Classe 'Hot-Spot-Multi': 138 imagens
+Classe 'No-Anomaly': 5536 imagens
+Classe 'Offline-Module': 439 imagens
+Classe 'Shadowing': 604 imagens
+Classe 'Soiling': 99 imagens
+Classe 'Vegetation': 902 imagens
+Classes representadas e suas quantidades:
+Classe 'Cell': 269 imagens
+Classe 'Cell-Multi': 178 imagens
+Classe 'Cracking': 132 imagens
+Classe 'Diode': 209 imagens
+Classe 'Diode-Multi': 26 imagens
+Classe 'Hot-Spot': 34 imagens
+Classe 'Hot-Spot-Multi': 34 imagens
+Classe 'No-Anomaly': 1384 imagens
+Classe 'Offline-Module': 109 imagens
+Classe 'Shadowing': 150 imagens
+Classe 'Soiling': 24 imagens
+Classe 'Vegetation': 225 imagens
+Classes representadas e suas quantidades:
+Classe 'Cell': 295 imagens
+Classe 'Cell-Multi': 208 imagens
+Classe 'Cracking': 161 imagens
+Classe 'Diode': 255 imagens
+Classe 'Diode-Multi': 27 imagens
+Classe 'Hot-Spot': 42 imagens
+Classe 'Hot-Spot-Multi': 48 imagens
+Classe 'No-Anomaly': 1774 imagens
+Classe 'Offline-Module': 138 imagens
+Classe 'Shadowing': 178 imagens
+Classe 'Soiling': 51 imagens
+Classe 'Vegetation': 300 imagens
+Requirement already satisfied: tensorflow in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (2.13.0)
+Requirement already satisfied: keras in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (2.13.1)
+Requirement already satisfied: wandb in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (0.16.0)
+Requirement already satisfied: kaggle in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (1.5.16)
+Requirement already satisfied: tensorflow-intel==2.13.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow) (2.13.0)
+Requirement already satisfied: absl-py>=1.0.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (1.4.0)
+Requirement already satisfied: astunparse>=1.6.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (1.6.3)
+Requirement already satisfied: flatbuffers>=23.1.21 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (23.5.26)
+Requirement already satisfied: gast<=0.4.0,>=0.2.1 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (0.4.0)
+Requirement already satisfied: google-pasta>=0.1.1 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (0.2.0)
+Requirement already satisfied: h5py>=2.9.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (3.9.0)
+Requirement already satisfied: libclang>=13.0.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (16.0.6)
+Requirement already satisfied: numpy<=1.24.3,>=1.22 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (1.24.3)
+Requirement already satisfied: opt-einsum>=2.3.2 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (3.3.0)
+Requirement already satisfied: packaging in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (23.2)
+Requirement already satisfied: protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<5.0.0dev,>=3.20.3 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (4.24.2)
+Requirement already satisfied: setuptools in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (65.5.0)
+Requirement already satisfied: six>=1.12.0 in c:\users\alan de castro\appdata\roaming\python\python311\site-packages (from tensorflow-intel==2.13.0->tensorflow) (1.16.0)
+Requirement already satisfied: termcolor>=1.1.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (2.3.0)
+Requirement already satisfied: typing-extensions<4.6.0,>=3.6.6 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (4.5.0)
+Requirement already satisfied: wrapt>=1.11.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (1.15.0)
+Requirement already satisfied: grpcio<2.0,>=1.24.3 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (1.57.0)
+Requirement already satisfied: tensorboard<2.14,>=2.13 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (2.13.0)
+Requirement already satisfied: tensorflow-estimator<2.14,>=2.13.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (2.13.0)
+Requirement already satisfied: tensorflow-io-gcs-filesystem>=0.23.1 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorflow-intel==2.13.0->tensorflow) (0.31.0)
+Requirement already satisfied: Click!=8.0.0,>=7.1 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from wandb) (8.1.7)
+Requirement already satisfied: GitPython!=3.1.29,>=1.0.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from wandb) (3.1.40)
+Requirement already satisfied: requests<3,>=2.0.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from wandb) (2.31.0)
+Requirement already satisfied: psutil>=5.0.0 in c:\users\alan de castro\appdata\roaming\python\python311\site-packages (from wandb) (5.9.5)
+Requirement already satisfied: sentry-sdk>=1.0.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from wandb) (1.37.1)
+Requirement already satisfied: docker-pycreds>=0.4.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from wandb) (0.4.0)
+Requirement already satisfied: PyYAML in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from wandb) (6.0.1)
+Requirement already satisfied: setproctitle in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from wandb) (1.3.3)
+Requirement already satisfied: appdirs>=1.4.3 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from wandb) (1.4.4)
+Requirement already satisfied: certifi in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from kaggle) (2023.7.22)
+Requirement already satisfied: python-dateutil in c:\users\alan de castro\appdata\roaming\python\python311\site-packages (from kaggle) (2.8.2)
+Requirement already satisfied: tqdm in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from kaggle) (4.66.1)
+Requirement already satisfied: python-slugify in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from kaggle) (8.0.1)
+Requirement already satisfied: urllib3 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from kaggle) (1.26.16)
+Requirement already satisfied: bleach in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from kaggle) (6.1.0)
+Requirement already satisfied: colorama in c:\users\alan de castro\appdata\roaming\python\python311\site-packages (from Click!=8.0.0,>=7.1->wandb) (0.4.6)
+Requirement already satisfied: gitdb<5,>=4.0.1 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from GitPython!=3.1.29,>=1.0.0->wandb) (4.0.11)
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from requests<3,>=2.0.0->wandb) (3.2.0)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from requests<3,>=2.0.0->wandb) (3.4)
+Requirement already satisfied: webencodings in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from bleach->kaggle) (0.5.1)
+Requirement already satisfied: text-unidecode>=1.3 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from python-slugify->kaggle) (1.3)
+Requirement already satisfied: wheel<1.0,>=0.23.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from astunparse>=1.6.0->tensorflow-intel==2.13.0->tensorflow) (0.41.2)
+Requirement already satisfied: smmap<6,>=3.0.1 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from gitdb<5,>=4.0.1->GitPython!=3.1.29,>=1.0.0->wandb) (5.0.1)
+Requirement already satisfied: google-auth<3,>=1.6.3 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorboard<2.14,>=2.13->tensorflow-intel==2.13.0->tensorflow) (2.22.0)
+Requirement already satisfied: google-auth-oauthlib<1.1,>=0.5 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorboard<2.14,>=2.13->tensorflow-intel==2.13.0->tensorflow) (1.0.0)
+Requirement already satisfied: markdown>=2.6.8 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorboard<2.14,>=2.13->tensorflow-intel==2.13.0->tensorflow) (3.4.4)
+Requirement already satisfied: tensorboard-data-server<0.8.0,>=0.7.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorboard<2.14,>=2.13->tensorflow-intel==2.13.0->tensorflow) (0.7.1)
+Requirement already satisfied: werkzeug>=1.0.1 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from tensorboard<2.14,>=2.13->tensorflow-intel==2.13.0->tensorflow) (2.3.7)
+Requirement already satisfied: cachetools<6.0,>=2.0.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from google-auth<3,>=1.6.3->tensorboard<2.14,>=2.13->tensorflow-intel==2.13.0->tensorflow) (5.3.1)
+Requirement already satisfied: pyasn1-modules>=0.2.1 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from google-auth<3,>=1.6.3->tensorboard<2.14,>=2.13->tensorflow-intel==2.13.0->tensorflow) (0.3.0)
+Requirement already satisfied: rsa<5,>=3.1.4 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from google-auth<3,>=1.6.3->tensorboard<2.14,>=2.13->tensorflow-intel==2.13.0->tensorflow) (4.9)
+Requirement already satisfied: requests-oauthlib>=0.7.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from google-auth-oauthlib<1.1,>=0.5->tensorboard<2.14,>=2.13->tensorflow-intel==2.13.0->tensorflow) (1.3.1)
+Requirement already satisfied: MarkupSafe>=2.1.1 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from werkzeug>=1.0.1->tensorboard<2.14,>=2.13->tensorflow-intel==2.13.0->tensorflow) (2.1.3)
+Requirement already satisfied: pyasn1<0.6.0,>=0.4.6 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from pyasn1-modules>=0.2.1->google-auth<3,>=1.6.3->tensorboard<2.14,>=2.13->tensorflow-intel==2.13.0->tensorflow) (0.5.0)
+Requirement already satisfied: oauthlib>=3.0.0 in c:\users\alan de castro\appdata\local\programs\python\python311\lib\site-packages (from requests-oauthlib>=0.7.0->google-auth-oauthlib<1.1,>=0.5->tensorboard<2.14,>=2.13->tensorflow-intel==2.13.0->tensorflow) (3.2.2)
+[notice] A new release of pip is available: 23.1.2 -> 24.3.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.
